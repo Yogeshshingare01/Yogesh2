@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;test_1_practice.browser_open&apos; to &apos;browser_open_or_fb_loginpage&apos;&#x0D;&#x0A;- Original project: &apos;batch_12_prpject&apos;&#x0D;&#x0A;- Original element: &apos;test_1_practice.browser_open&apos;&#x0D;&#x0A;- Renamed element: &apos;test_1_practice.browser_open_or_fb_loginpage&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;browser_open&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;test_1_practice{browser_open.java[browser_open" matchStrategy="1" name="browser_open_or_fb_loginpage" qualified="false" references="true" similarDeclarations="false" stamp="1663068979008" textual="false" version="1.0"/>
+</session>

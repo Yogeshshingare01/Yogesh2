@@ -1,0 +1,10 @@
+package a2_loopstatement;
+
+public class swipe_with_2variable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
